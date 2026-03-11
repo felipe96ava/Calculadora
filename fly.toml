@@ -1,4 +1,4 @@
-app = "Calculadora"
+app = "<Calculadora>"
 
 kill_signal = "SIGINT"
 kill_timeout = 5
