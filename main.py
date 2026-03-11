@@ -128,4 +128,4 @@ def main(page: ft.Page):
 
 
 
-ft.run(main)
+ft.run(main,port=8088, host="0.0.0.0")
